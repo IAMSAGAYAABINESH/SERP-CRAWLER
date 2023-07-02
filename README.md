@@ -16,8 +16,7 @@ The script uses the following tech stack:
 
 1. Download and open the `serp_crawler.py` file.
 2. Run the web app using `streamlit run serp_crawler.py` in the terminal.
-
-# Web App Image
+3. Image shown below is the Streamlit Webapp.
 
 ![serp](https://github.com/IAMSAGAYAABINESH/SERP-CRAWLER/assets/76099682/1bc6a068-dac1-4a23-8842-dee76686a9ee)
 
